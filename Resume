@@ -1,0 +1,124 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Student Resume </title>
+    <style>
+        img{
+          border-radius: 50%;
+          
+        }
+    </style>
+
+</head>
+<body>
+        
+    <br>
+    <br>
+    <!-- Header --> 
+    <table>
+        <tr>
+            <td> <center><img src="edgar.jpg" alt="" width = "100px" border = "3" > </td>
+            </center>
+            
+   <td border style="text-align: center;">
+    <h3>EDGARDO ROLDAN YAMSON</h3>
+    
+        <p><a href="www.facebook.com/edgardoyamson">www.facebook.com/egardoyamson</a> </p> </td>
+</td>
+     
+        </tr>
+    </table>
+    
+    <!-- Personal data -->
+    <br><hr>
+    <h3> PERSONAL DATA </h3>
+    <hr>
+    
+    <table>
+        <section>
+        <tr> 
+        <td>
+        <h3>Name: </h3>
+        </td>
+<td>
+            <p>Edgardo Roldan Yamson</p>
+    </tr>        </section>
+         
+    <tr> <section>
+        <td>
+        <h3>Birth Date: </h3>
+     
+        <td>
+            <p>July 24, 2000</p>  
+        </td>        </td>
+        </section>
+    </tr>
+    <tr> 
+        <td>
+      <h3>Age:</h3>
+
+        <td>
+            <p> 23</p>  
+        </td>        </td>
+    </tr>
+    <tr> 
+        <td>
+        <h3>Email Address: </h3>
+        </td>
+        <td>
+        <p><a href="edgardoyamson072400@gmail.com">edgardoyamson072400@gmail.com</a></p>  
+        </td>
+    </tr>
+    <tr> 
+        <td>
+        <h4>Phone Number: </h4>
+        </td>
+        <td>
+            <p>09814302311</p>  
+        </td>
+    </tr>
+        <tr> 
+        <td>
+        <h3>Sex: </h3>
+        </td>
+        <td>
+            <p> Male</p>  
+        </td>
+    </tr>
+    <br>
+    <t
+    <!-- Educational background -->
+    <table><hr>
+        <section>
+        <tr>
+            <h2>EDUCATIONAL BACKGROUND </h2>
+        </tr>
+    </section>
+    </table><hr>
+    
+    <table>
+        <tr>
+        <p><b>Tertiary:</b>2012-2013: Trinidad Tecson Elementary </p>
+        <p><b>Secondary: </b>2019-2020 Hingiuwin National school </p>
+        
+    </tr></table>
+    <br>
+    <table><hr>
+        <tr>
+            <h3> INTEREST</h3>
+        </tr>
+    </table>
+    <hr>
+    <table>
+        <ul>
+            <li>Sports</li>
+            <li>Travel</li>
+            <li>Singing</li>
+            <li>Technology</li>
+        </ul>
+    </table>
+    
+     
+</body>
+</html>
